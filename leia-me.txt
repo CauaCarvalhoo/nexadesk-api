@@ -1,0 +1,21 @@
+Projeto: NexaDesk API
+
+Descrição:
+A NexaDesk API é uma API voltada para gestão de chamados técnicos e controle de ativos de TI.
+
+Objetivo:
+Permitir o cadastro de usuários, abertura e acompanhamento de chamados, controle de equipamentos e registro de auditoria.
+
+Estrutura inicial:
+- app: código principal da aplicação
+- config: configurações
+- docs: documentação
+- logs: registros
+- public: arquivos públicos
+- scripts: scripts auxiliares
+- storage: armazenamento interno
+- tests: testes
+- auditoria: rastreamento de ações
+
+Ambiente:
+GitHub Codespaces em Linux
